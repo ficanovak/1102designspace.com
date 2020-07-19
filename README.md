@@ -21,10 +21,10 @@ www.1102designspace.com
  - CMS development for indipendent website updates
 
 
-
 <p align="center">
-  <img src="https://i.imgur.com/M8OSlg4.gif"/>
+  <img src="https://i.imgur.com/15iERAU.gif"/>
 </p>
+
 
 
 ## How it works
