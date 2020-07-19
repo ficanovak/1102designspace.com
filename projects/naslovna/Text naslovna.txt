@@ -1,0 +1,7 @@
+﻿1102 Design Studio is a Belgrade-based architectural and interior design visualisation studio founded by architects Kristina Milanović and Branko Milanović, with backgrounds in the architectural and interior design, which helps us greatly while producing visualisations.
+The philosophy is simple: Create beautiful, detailed and effective architectural visualisations.
+We are experienced in producing still images, VR tours and animations for architects, interior designers, developers, photographers and private home-owners. The studio can take on projects of all sizes and types, from small interiors to large scale architecture projects.
+
+NAPOMENA ZA FILIPA
+Ne znam kako se uklapa ova kolicina teksta u onaj prostor koji si ostavio za ovaj tekst, ali bi trebalo da logo i tekst budu iste visine. 
+Tako da kad ga ubacis, i tekst bude veci ili manji od logoa, slobodno skejluj logo da se gornja i donja ivica poklope sa tekstom.

@@ -1,0 +1,1568 @@
+{
+
+  "site_name": "1102 Design space",
+
+  "site_short_name": "11+02",
+
+  "page_team": " | Team",
+
+  "site_logo": "assets/img/logo.png",
+
+  "home_number_of_projects": "4",
+
+  "team": [{
+
+      "img_url": "assets/img/Kristina-Milanovic.jpg",
+
+      "name": "Kristina Milanović",
+
+      "position": "Architect and Interior Designer",
+
+      "text": "Kristina got her Master of Science in Architecture degree from Milan Polytechnic University in 2014. In 2012, has founded her own fashion-photograohy blog and continued to manage it alongside making a career as an Architect and Interior Designer. In 2016, she has joined forces with Branko Milanović to co-found an independent design studio, 1102 Design Space, where she manages Interior Design and Architectural projects. Licensed architect in Serbia since 2016. Passionate about fashion, pets, photography, food and travel. Nervous when hungry and always organized."
+
+    },
+
+    {
+
+      "img_url": "assets/img/Branko-Milanovic.jpg",
+
+      "name": "Branko Milanović",
+
+      "position": "Architect and Architectural Visualization Artist",
+
+      "text": "Branko has graduated from Milan Polytechnic University in 2014 as Master of Science in Architecture. In 2016, a long time hobby and freelance practice as an Architectural Visualization Artist finally turned into professional studio, 1102 Design Space, co-founded with Kristina Milanović. Passionate about sports, photography, food and travel. Very serious about lunch timing and food delivery organization, cranky when sleepy."
+
+    },
+
+    {
+
+      "img_url": "assets/img/Moke-the-wiener.jpg",
+
+      "name": "Moke The Wiener",
+
+      "position": "Security Supervisor",
+
+      "text": "Moke the wiener/sausage dog/dachsund/doxie/hot dog/etc. has been member of our team since it's foundation in 2016. when we took him as a very young puppy. Eversince he has been supervising our office, barking at whoever comes to visit or passes by the office, and always in the mood for cuddling whether you feel stressed or it is just tuesday. Loves long walks and cuddling, if and when you find him not sleeping."
+
+    }
+
+  ],
+
+  "services": [{
+
+      "img_url": "assets/img/1.jpg",
+
+      "url": "projects.php#still",
+
+      "name": "STILL IMAGE",
+
+      "text": "Architectural visualisation still image is a sneak-peek into the unbuilt future.<br><br> We use 3D software and ou know-how tools to create convincing, detailed images powerfull enough to convince clients into the project realisation.<br><br>Large-scale or small, exterior or interior, aerial or ground view, we have the same, effective approach to visualize and communicate outstanding architectural design."
+
+    },
+
+    {
+
+      "img_url": "assets/img/2.jpg",
+
+      "url": "projects.php#animation",
+
+      "name": "ANIMATION",
+
+      "text": "If still image is a sneak-peek, then movie is a deep gaze into the unbuilt world. <br><br>A different visual language with its own perspectives to express architectural design. <br><br>All in our services we use the power of genuine storytelling and in architectural movies it’s definitely prominent. <br><br>Thanks to our well equipped studio with top-notch technology we are able to create animations from scratch."
+
+    },
+
+    {
+
+      "img_url": "assets/img/3.jpg",
+
+      "url": "projects.php#vr",
+
+      "name": "VR | AR INTERACTIVE SOLUTIONS",
+
+      "text": "VR is the next step in the evolution of architectural visualisaton and design. <br><br>Virtual relity tours allow the end users to get lost in it and interact with unbuilt environments and see them in lifelike situations. <br><br>To immerse yourself and try our VR visualisations, visit our VR projects page."
+
+    }
+
+  ],
+
+  "slider": [{
+
+      "img_url": "projects/naslovna/1.jpg",
+
+      "name": "1321865407"
+
+    },
+
+    {
+
+      "img_url": "projects/naslovna/2.jpg",
+
+      "name": "1321865407"
+
+    },
+
+    {
+
+      "img_url": "projects/naslovna/3.jpg",
+
+      "name": "1321865407"
+
+    },
+
+    {
+
+      "img_url": "projects/naslovna/4.jpg",
+
+      "name": "1321865407"
+
+    },
+
+    {
+
+      "img_url": "projects/naslovna/5.jpg",
+
+      "name": "1321865407"
+
+    }
+
+  ],
+
+  "home_text": [{
+
+    "img_url": "assets/img/11.png",
+
+    "text": "1102 Design Space is a Belgrade-based architectural and interior design visualisation studio founded by architects Kristina Milanović and Branko Milanović, with backgrounds in the architectural and interior design, which helps us greatly while producing visualisations.<br>The philosophy is simple:<br>Create beautiful, detailed and effective architectural visualisations.<br>We are experienced in producing still images, VR tours and animations for architects, interior designers, developers, photographers and private home-owners.<br>The studio can take on projects of all sizes and types, from small interiors to large scale architecture projects."
+
+  }],
+
+  "projects": [{
+
+      "img_url": "projects/neznanog_junaka_apartment_belgrade/2.jpg",
+
+      "url": "project.php?id=1",
+
+      "name": "Neznanog Junaka, Apartment",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Neznanog Junaka, Apartment",
+
+      "subtitle":"Interior design and visualisation of a luxury one-bedroom apartment in Belgrade.",
+
+      "description":"Location: Belgrade, Serbia<br>Client: Sanidei d.o.o.<br>Design architect: 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/neznanog_junaka_apartment_belgrade/1.jpg",
+
+      "img2":"projects/neznanog_junaka_apartment_belgrade/3.jpg",
+
+      "img3":"projects/neznanog_junaka_apartment_belgrade/4.jpg",
+
+      "img4":"projects/neznanog_junaka_apartment_belgrade/5.jpg",
+
+      "img5":"projects/neznanog_junaka_apartment_belgrade/2.jpg",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/neznanog_junaka_belgrade/1.jpg",
+
+      "url": "project.php?id=2",
+
+      "name": "Neznanog Junaka",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Neznanog Junaka, Belgrade",
+
+      "subtitle":"Interior design and visualisation of a facade and entrance hall for Neznanog Junaka Residental Complex in Belgrade.",
+
+      "description":"Location: Belgrade, Serbia<br>Client: Sanidei d.o.o.<br>Design architect: Arch. Sanjin Grbić / 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/neznanog_junaka_belgrade/2.jpg",
+
+      "img2":"projects/neznanog_junaka_belgrade/3.jpg",
+
+      "img3":"projects/neznanog_junaka_belgrade/4.jpg",
+
+      "img4":"projects/neznanog_junaka_belgrade/5.jpg",
+
+      "img5":"projects/neznanog_junaka_belgrade/6.jpg",
+
+      "img6":"projects/neznanog_junaka_belgrade/7.jpg",
+
+      "img7":"projects/neznanog_junaka_belgrade/8.jpg",
+
+      "img8":"projects/neznanog_junaka_belgrade/9.jpg",
+
+      "img9":"projects/neznanog_junaka_belgrade/10.jpg",
+
+      "img10":"projects/neznanog_junaka_belgrade/11.jpg",
+
+      "img11":"projects/neznanog_junaka_belgrade/12.jpg",
+
+      "img12":"projects/neznanog_junaka_belgrade/1.jpg"
+
+    },
+
+    {
+
+      "img_url": "projects/njegoseva_belgrade/2.jpg",
+
+      "url": "project.php?id=3",
+
+      "name": "Njegoseva",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Njegoseva, Belgrade",
+
+      "subtitle":"Visualisation of a luxury apartment in Belgrade. Master bedroom with bathroom, guest bedroom with bathroom and living zone.",
+
+      "description":"Location: Belgrade, Serbia<br>Design Architect: Studio Marguery",
+
+      "iframe":"",
+
+      "img1":"projects/njegoseva_belgrade/1.jpg",
+
+      "img2":"projects/njegoseva_belgrade/3.jpg",
+
+      "img3":"projects/njegoseva_belgrade/4.jpg",
+
+      "img4":"projects/njegoseva_belgrade/5.jpg",
+
+      "img5":"projects/njegoseva_belgrade/6.jpg",
+
+      "img6":"projects/njegoseva_belgrade/7.jpg",
+
+      "img7":"projects/njegoseva_belgrade/8.jpg",
+
+      "img8":"projects/njegoseva_belgrade/9.jpg",
+
+      "img9":"projects/njegoseva_belgrade/10.jpg",
+
+      "img10":"projects/njegoseva_belgrade/2.jpg",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/vase_pealgica_belgrade/1.jpg",
+
+      "url": "project.php?id=4",
+
+      "name": "Vase Pelagica",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Vase Pelagica, Belgrade",
+
+      "subtitle":"Master and children bedroom in two bedroom luxury apartment.",
+
+      "description":"Location: Belgrade, Serbia<br>Design architect: Arch. Sanjin Grbić / 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/vase_pealgica_belgrade/2.jpg",
+
+      "img2":"projects/vase_pealgica_belgrade/1.jpg",
+
+      "img3":"",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/attic_in_belgrade/2.jpg",
+
+      "url": "project.php?id=5",
+
+      "name": "Attic in Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Attic in Belgrade",
+
+      "subtitle":"One bedroom apartment in Belgrade. Old attic renovation with the goal to accommodate a small family.",
+
+      "description":"Location: Belgrade, Serbia<br>Design architect: Arch. Predrag Krstic",
+
+      "iframe":"",
+
+      "img1":"projects/attic_in_belgrade/1.jpg",
+
+      "img2":"projects/attic_in_belgrade/2.jpg",
+
+      "img3":"",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/baba_visnjina_belgrade/5.jpg",
+
+      "url": "project.php?id=6",
+
+      "name": "Baba Visnjina",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Baba Visnjina, Belgrade",
+
+      "subtitle":"Study and library in a duplex apartment in Baba Višnjina street in Belgrade.",
+
+      "description":"Location: Belgrade, Serbia<br>Design architect: Workshop Infinity",
+
+      "iframe":"",
+
+      "img1":"projects/baba_visnjina_belgrade/1.jpg",
+
+      "img2":"projects/baba_visnjina_belgrade/2.jpg",
+
+      "img3":"projects/baba_visnjina_belgrade/3.jpg",
+
+      "img4":"projects/baba_visnjina_belgrade/4.jpg",
+
+      "img5":"",
+
+      "img6":"projects/baba_visnjina_belgrade/7.jpg",
+
+      "img7":"projects/baba_visnjina_belgrade/5.jpg",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/bakary_france/1.jpg",
+
+      "url": "project.php?id=7",
+
+      "name": "Bakary",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Paris",
+
+      "title":"Bakary, France",
+
+      "subtitle":"Master bedroom and bathroom visualization of a luxury apartment in Paris.",
+
+      "description":"Location: Paris, France<br>Design architect: Studio Marguery",
+
+      "iframe":"",
+
+      "img1":"projects/bakary_france/2.jpg",
+
+      "img2":"projects/bakary_france/3.jpg",
+
+      "img3":"projects/bakary_france/4.jpg",
+
+      "img4":"projects/bakary_france/1.jpg",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/belzunce_paris/4.jpg",
+
+      "url": "project.php?id=8",
+
+      "name": "Belcunze",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Paris",
+
+      "title":"Belcunze, Paris",
+
+      "subtitle":"Interior visualisation of a two-bedroom apartment in Paris, which consists of living room with open kitchen, children and parents bedroom.",
+
+      "description":"Location: Paris, France<br>Design architect: Studio Marguery",
+
+      "iframe":"",
+
+      "img1":"projects/belzunce_paris/1.jpg",
+
+      "img2":"projects/belzunce_paris/2.jpg",
+
+      "img3":"projects/belzunce_paris/3.jpg",
+
+      "img4":"projects/belzunce_paris/4.jpg",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/cernobbio_como/1.jpg",
+
+      "url": "project.php?id=9",
+
+      "name": "Cernobbio",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Como, Italy",
+
+      "title":"Cernobbio, Como",
+
+      "subtitle":"Interior visualisation of a vacation house, overlooking the lake of Como.",
+
+      "description":"Location: Cernobbio, Como, Italy<br>Design architect: Arch. Michele Gaspa",
+
+      "iframe":"",
+
+      "img1":"projects/cernobbio_como/2.jpg",
+
+      "img2":"projects/cernobbio_como/1.jpg",
+
+      "img3":"",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/kapunka_paris/2.jpg",
+
+      "url": "project.php?id=10",
+
+      "name": "Kapunka",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Paris",
+
+      "title":"Kapunka, Paris",
+
+      "subtitle":"Interior visualisation of a thai restaurant Kapunka in Paris.",
+
+      "description":"Location: Paris, France<br>Design architect: Studio Marguery",
+
+      "iframe":"",
+
+      "img1":"projects/kapunka_paris/1.jpg",
+
+      "img2":"projects/kapunka_paris/2.jpg",
+
+      "img3":"",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/krunska_90_belgrade/3.jpg",
+
+      "url": "project.php?id=11",
+
+      "name": "Krunska 90",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Krunska 90, Belgrade",
+
+      "subtitle":"Classic luxury bathroom featuring floor and wall coating in natural Onyx marble.",
+
+      "description":"Location: Belgrade, Serbia<br>Client: Sanidei d.o.o.<br>Design architect: Arch. Sanjin Grbić / 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/krunska_90_belgrade/1.jpg",
+
+      "img2":"projects/krunska_90_belgrade/2.jpg",
+
+      "img3":"projects/krunska_90_belgrade/3.jpg",
+
+      "img4":"projects/krunska_90_belgrade/4.jpg",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/maidens_residence_montenegro/3.jpg",
+
+      "url": "project.php?id=12",
+
+      "name": "Maidens Residence",
+
+      "category": "still",
+
+      "category2": "vr",
+
+      "location": "Montenegro",
+
+      "title":"Maidens Residence, Montenegro",
+
+      "subtitle":"Luxury villas with the panoramic view towards the sea, at Maiden's Residence luxury complex.",
+
+      "description":"Location: Budva, Montenegro<br>Client: Sanidei d.o.o.<br>Design architect: Arch. Sanjin Grbić / 1102 Design Space",
+
+      "iframe":"<iframe width='100%' height='720' src='https://roundme.com/embed/211133/577843' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+
+      "img1":"projects/maidens_residence_montenegro/1.jpg",
+
+      "img2":"projects/maidens_residence_montenegro/2.jpg",
+
+      "img3":"projects/maidens_residence_montenegro/3.jpg",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/minusio_switzerland/1.jpg",
+
+      "url": "project.php?id=14",
+
+      "name": "Minusio",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Switzerland",
+
+      "title":"Minusio, Switzerland",
+
+      "subtitle":"Two bedroom apartment overlooking Lake Maggiore and swiss Alps.",
+
+      "description":"Location: Minusio, Switzerland<br>Design architect: Arch. Michele Gaspa / 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/minusio_switzerland/1.jpg",
+
+      "img2":"projects/minusio_switzerland/2.jpg",
+
+      "img3":"projects/minusio_switzerland/3.jpg",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/smiljaniceva_belgrade/4.jpg",
+
+      "url": "project.php?id=15",
+
+      "name": "Smiljaniceva",
+
+      "category": "still",
+
+      "category2": "vr",
+
+      "location": "Belgrade",
+
+      "title":"Smiljaniceva, Belgrade",
+
+      "subtitle":"Luxury one bedroom apartment in Belgrade.",
+
+      "description":"Location: Belgrade, Serbia<br>Design architect: 1102 Design Space",
+
+      "iframe":"<iframe width='100%' height='720' src='https://roundme.com/embed/171901/444900' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+
+      "img1":"projects/smiljaniceva_belgrade/1.jpg",
+
+      "img2":"projects/smiljaniceva_belgrade/2.jpg",
+
+      "img3":"projects/smiljaniceva_belgrade/3.jpg",
+
+      "img4":"projects/smiljaniceva_belgrade/4.jpg",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/tomislavac_zagreb/2.jpg",
+
+      "url": "project.php?id=17",
+
+      "name": "Tomislavac",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Zagreb",
+
+      "title":"Tomislavac, Zagreb",
+
+      "subtitle":"Interior visualisation of a renovated three-bedroom apartment in Zagreb, overlooking King Tomislav Square.",
+
+      "description":"Location: Zagreb, Croatia<br>Design architect: Studio Marguery",
+
+      "iframe":"",
+
+      "img1":"projects/tomislavac_zagreb/1.jpg",
+
+      "img2":"projects/tomislavac_zagreb/2.jpg",
+
+      "img3":"projects/tomislavac_zagreb/3.jpg",
+
+      "img4":"projects/tomislavac_zagreb/4.jpg",
+
+      "img5":"projects/tomislavac_zagreb/5.jpg",
+
+      "img6":"projects/tomislavac_zagreb/6.jpg",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/vojvode_misica_kragujevac/3.jpg",
+
+      "url": "project.php?id=18",
+
+      "name": "Vojvode Misica",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Kragujevac",
+
+      "title":"Vojvode Misica, Kragujevac",
+
+      "subtitle":"Interior rendering of a residental building, concetrated arround Virtual Reality tour.",
+
+      "description":"Location: Kragujevac, Serbia<br>Design architect: Ured Studio",
+
+      "iframe":"",
+
+      "img1":"projects/vojvode_misica_kragujevac/1.jpg",
+
+      "img2":"projects/vojvode_misica_kragujevac/2.jpg",
+
+      "img3":"projects/vojvode_misica_kragujevac/3.jpg",
+
+      "img4":"projects/vojvode_misica_kragujevac/4.jpg",
+
+      "img5":"projects/vojvode_misica_kragujevac/5.jpg",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/vozdove_kapije_belgrade/1.jpg",
+
+      "url": "project.php?id=19",
+
+      "name": "Vozdove Kapije",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade",
+
+      "title":"Vozdove Kapije, Belgrade",
+
+      "subtitle":"Interior visualisation of a one-bedroom apartment.",
+
+      "description":"Location: Belgrade, Serbia<br>Design architect: Arch. Vedrana Novaković",
+
+      "iframe":"",
+
+      "img1":"projects/vozdove_kapije_belgrade/2.jpg",
+
+      "img2":"projects/vozdove_kapije_belgrade/3.jpg",
+
+      "img3":"projects/vozdove_kapije_belgrade/4.jpg",
+
+      "img4":"projects/vozdove_kapije_belgrade/1.jpg",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/zlatibor_1000_apartment_zlatibor/2.jpg",
+
+      "url": "project.php?id=20",
+
+      "name": "Zlatibor 1000, Apartment",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Zlatibor",
+
+      "title":"Zlatibor 1000, Apartment",
+
+      "subtitle":"Interior design and visualisation of a mountain apartment, Zlatibor 1000 Complex.",
+
+      "description":"Location: Zlatibor, Serbia<br>Design: 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/zlatibor_1000_apartment_zlatibor/1.jpg",
+
+      "img2":"projects/zlatibor_1000_apartment_zlatibor/2.jpg",
+
+      "img3":"projects/zlatibor_1000_apartment_zlatibor/3.jpg",
+
+      "img4":"projects/zlatibor_1000_apartment_zlatibor/4.jpg",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    },
+
+    {
+
+      "img_url": "projects/zlatibor_1000_attic_apartment_zlatibor/2.jpg",
+
+      "url": "project.php?id=21",
+
+      "name": "Zlatibor 1000, Attic Apartment",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Zlatibor",
+
+      "title":"Zlatibor 1000, Attic Apartment",
+
+      "subtitle":"Interior design and visualisation of an attic apartment, Zlatibor 1000 Complex.",
+
+      "description":"Location: Zlatibor, Serbia<br>Design: 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/zlatibor_1000_attic_apartment_zlatibor/1.jpg",
+
+      "img2":"projects/zlatibor_1000_attic_apartment_zlatibor/2.jpg",
+
+      "img3":"projects/zlatibor_1000_attic_apartment_zlatibor/3.jpg",
+
+      "img4":"",
+
+      "img5":"",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/opatija/1.jpg",
+
+      "url": "project.php?id=22",
+
+      "name": "Seaside Villa, Opatija",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Opatija, Croatia",
+
+      "title":"Seaside Villa",
+
+      "subtitle":"Visualisation of a luxury villa in Opatija, Croatia.",
+
+      "description":"Location: Opatija, Croatia<br>Design architect: Aleksandar Kovačević, M.Arch",
+
+      "iframe":"",
+
+      "img1":"projects/opatija/1.jpg",
+
+      "img2":"projects/opatija/2.jpg",
+
+      "img3":"projects/opatija/3.jpg",
+
+      "img4":"projects/opatija/4.jpg",
+
+      "img5":"projects/opatija/5.jpg",
+
+      "img6":"projects/opatija/6.jpg",
+
+      "img7":"projects/opatija/7.jpg",
+
+      "img8":"projects/opatija/8.jpg",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/west_65/01.jpg",
+
+      "url": "project.php?id=23",
+
+      "name": "West 65, Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade, Serbia",
+
+      "title":"West 65, Belgrade",
+
+      "subtitle":"Interior design and visualisation of luxury three bedroom apartment, West 65 Complex.",
+
+      "description":"Location: Belgrade, Serbia<br>Design: 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/west_65/01.jpg",
+
+      "img2":"projects/west_65/02.jpg",
+
+      "img3":"projects/west_65/03.jpg",
+
+      "img4":"projects/west_65/04.jpg",
+
+      "img5":"projects/west_65/05.jpg",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/neznanog_junaka_15_apartment_belgrade/01.jpg",
+
+      "url": "project.php?id=24",
+
+      "name": "Neznanog Junaka, Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade, Serbia",
+
+      "title":"Neznanog Junaka, Belgrade",
+
+      "subtitle":"Interior design and visualisation of luxury two bedroom apartment.",
+
+      "description":"Location: Belgrade, Serbia<br>Design: 1102 Design Space and Milica Radec, M.Arch",
+
+      "iframe":"",
+
+      "img1":"projects/neznanog_junaka_15_apartment_belgrade/01.jpg",
+
+      "img2":"projects/neznanog_junaka_15_apartment_belgrade/02.jpg",
+
+      "img3":"projects/neznanog_junaka_15_apartment_belgrade/03.jpg",
+
+      "img4":"projects/neznanog_junaka_15_apartment_belgrade/04.jpg",
+
+      "img5":"projects/neznanog_junaka_15_apartment_belgrade/05.jpg",
+
+      "img6":"projects/neznanog_junaka_15_apartment_belgrade/06.jpg",
+
+      "img7":"projects/neznanog_junaka_15_apartment_belgrade/07.jpg",
+
+      "img8":"projects/neznanog_junaka_15_apartment_belgrade/08.jpg",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/milana_tepica/01.jpg",
+
+      "url": "project.php?id=25",
+
+      "name": "Milana Tepica, Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade, Serbia",
+
+      "title":"Milana Tepica, Belgrade",
+
+      "subtitle":"Design and visualisation of a residential building.",
+
+      "description":"Location: Belgrade, Serbia<br>Design: 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/milana_tepica/01.jpg",
+
+      "img2":"projects/milana_tepica/02.jpg",
+
+      "img3":"projects/milana_tepica/03.jpg",
+
+      "img4":"projects/milana_tepica/04.jpg",
+
+      "img5":"projects/milana_tepica/05.jpg",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/igraonica/01.jpg",
+
+      "url": "project.php?id=26",
+
+      "name": "Toy store, Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade, Serbia",
+
+      "title":"Toy store, Belgrade, Serbia",
+
+      "subtitle":"Visualisation of a toy store.",
+
+      "description":"Location: Belgrade, Serbia<br>Design architect: Aleksandar Kovačević, M.Arch",
+
+      "iframe":"",
+
+      "img1":"projects/igraonica/01.jpg",
+
+      "img2":"projects/igraonica/02.jpg",
+
+      "img3":"projects/igraonica/03.jpg",
+
+      "img4":"projects/igraonica/04.jpg",
+
+      "img5":"projects/igraonica/05.jpg",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/prvomajska/01.jpg",
+
+      "url": "project.php?id=27",
+
+      "name": "Prvomajska, Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade, Serbia",
+
+      "title":"Prvomajska, Belgrade",
+
+      "subtitle":"Design and visualisation of a facade for Prvomajska Residential Complex in Belgrade.",
+
+      "description":"Location: Belgrade, Serbia<br>Design: 1102 Design Space",
+
+      "iframe":"",
+
+      "img1":"projects/prvomajska/01.jpg",
+
+      "img2":"projects/prvomajska/02.jpg",
+
+      "img3":"projects/prvomajska/03.jpg",
+
+      "img4":"projects/prvomajska/04.jpg",
+
+      "img5":"projects/prvomajska/05.jpg",
+
+      "img6":"",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+      "img_url": "projects/markom/01.jpg",
+
+      "url": "project.php?id=28",
+
+      "name": "Zemun, Belgrade",
+
+      "category": "still",
+
+      "category2": "",
+
+      "location": "Belgrade, Serbia",
+
+      "title":"Zemun, Belgrade",
+
+      "subtitle":"Visualisation of a facade for residential complex in Zemun, Belgrade.",
+
+      "description":"Location: Belgrade, Serbia<br>Design: Markom Project Line",
+
+      "iframe":"",
+
+      "img1":"projects/markom/01.jpg",
+
+      "img2":"projects/markom/02.jpg",
+
+      "img3":"projects/markom/03.jpg",
+
+      "img4":"projects/markom/04.jpg",
+
+      "img5":"projects/markom/05.jpg",
+
+      "img6":"projects/markom/06.jpg",
+
+      "img7":"",
+
+      "img8":"",
+
+      "img9":"",
+
+      "img10":"",
+
+      "img11":"",
+
+      "img12":""
+
+    }
+
+    ,{
+
+        "img_url": "projects/hamburg/01.jpg",
+  
+        "url": "project.php?id=29",
+  
+        "name": "Office Hub, Hamburg",
+  
+        "category": "still",
+  
+        "category2": "",
+  
+        "location": "Hamburg, Germany",
+  
+        "title":"Office Hub, Hamburg",
+  
+        "subtitle":"Interior design and visualisation of an office hub in Hamburg, Germany.",
+  
+        "description":"Location: Hamburg, Germany<br>Design: 1102 Design Space",
+  
+        "iframe":"",
+  
+        "img1":"projects/hamburg/01.jpg",
+  
+        "img2":"projects/hamburg/02.jpg",
+  
+        "img3":"",
+  
+        "img4":"",
+  
+        "img5":"",
+  
+        "img6":"",
+  
+        "img7":"",
+  
+        "img8":"",
+  
+        "img9":"",
+  
+        "img10":"",
+  
+        "img11":"",
+  
+        "img12":""
+  
+      }
+
+      ,{
+
+        "img_url": "projects/gaspa/01.jpg",
+  
+        "url": "project.php?id=30",
+  
+        "name": "Residential Villa, Rovio",
+  
+        "category": "still",
+  
+        "category2": "",
+  
+        "location": "Rovio, Switzerland",
+  
+        "title":"Residential Villa, Rovio",
+  
+        "subtitle":"Visualisation of a residential villa.",
+  
+        "description":"Location: Rovio, Switzerland<br>Design: Gaspa Architetti Associati",
+  
+        "iframe":"",
+  
+        "img1":"projects/gaspa/01.jpg",
+  
+        "img2":"projects/gaspa/02.jpg",
+  
+        "img3":"projects/gaspa/03.jpg",
+  
+        "img4":"",
+  
+        "img5":"",
+  
+        "img6":"",
+  
+        "img7":"",
+  
+        "img8":"",
+  
+        "img9":"",
+  
+        "img10":"",
+  
+        "img11":"",
+  
+        "img12":""
+  
+      }
+
+      ,{
+
+        "img_url": "projects/cvecara/01.jpg",
+  
+        "url": "project.php?id=31",
+  
+        "name": "Flower Shop, Oaza",
+  
+        "category": "still",
+  
+        "category2": "<>",
+  
+        "location": "Kragujevac, Serbia",
+  
+        "title":"Flower Shop, Oaza",
+  
+        "subtitle":"Visualisation of a flower shop.",
+  
+        "description":"Location: Kragujevac, Serbia<br>Design architect: Vedrana Markovic, M.Arch",
+  
+        "iframe":"",
+  
+        "img1":"projects/cvecara/01.jpg",
+  
+        "img2":"projects/cvecara/02.jpg",
+  
+        "img3":"",
+  
+        "img4":"",
+  
+        "img5":"",
+  
+        "img6":"",
+  
+        "img7":"",
+  
+        "img8":"",
+  
+        "img9":"",
+  
+        "img10":"",
+  
+        "img11":"",
+  
+        "img12":""
+  
+      }
+
+  ],
+
+  "contact": [{
+
+      "city": "Milano",
+
+      "address": "Viale Fulvio Testi 80, 20126, Milano",
+
+      "phone": "",
+
+      "email": "project@1102designspace.com",
+
+      "latitude": "",
+
+      "longitude": ""
+
+    },
+
+    {
+
+      "city": "Belgrade",
+
+      "address": "Molerova 82, 11111, Belgrade",
+
+      "phone": "+38164 4075 556",
+
+      "email": "project@1102designspace.com",
+
+      "latitude": "",
+
+      "longitude": ""
+
+    }
+
+  ]
+
+}
+

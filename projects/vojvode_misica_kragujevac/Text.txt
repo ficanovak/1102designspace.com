@@ -1,0 +1,9 @@
+﻿Navigacija:
+Visualization/Still Images
+Visualization/VR
+
+Interior rendering of a residental building, concetrated arround Virtual Reality tour.
+
+Location: Kragujevac, Serbia
+
+Design architect: Ured Studio

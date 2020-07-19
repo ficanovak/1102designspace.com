@@ -1,0 +1,138 @@
+{
+                "site_name": "11+2 DESIGN SPACE",
+                "site_logo": "assets/img/logo.png",
+                "home_number_of_projects": "4",
+                "team": [
+                        {
+                                "img_url": "assets/img/20.jpg",
+                                "name": "Kristina Milanovic",
+                                "position": "Architect",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui."
+                        },
+                        {
+                                "img_url": "assets/img/21.jpg",
+                                "name": "Branko Milanovic",
+                                "position": "Architect",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui."
+                        }
+                ],
+                "services": [
+                        {
+                                "img_url": "assets/img/1.jpg",
+                                "name": "STILL IMAGE",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui."
+                        },
+                        {
+                                "img_url": "assets/img/2.jpg",
+                                "name": "ANIMATION",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui."
+                        },
+                        {
+                                "img_url": "assets/img/3.jpg",
+                                "name": "VR | AR INTERACTIVE SOLUTIONS",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui."
+                        }
+                ],
+                "slider": [
+                        {
+                                "img_url": "assets/img/4.jpg",
+                                "name": "1321865407"
+                        },
+                        {
+                                "img_url": "assets/img/5.jpg",
+                                "name": "1321865407"
+                        }
+                ],
+                "home_text": [
+                        {
+                                "img_url": "assets/img/11.png",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus vitae odio vitae feugiat. Integer placerat, purus molestie interdum laoreet, mauris ex feugiat est, at ultrices magna lorem et urna. Vestibulum consectetur ex dolor, in cursus orci varius eget. Phasellus nibh elit, placerat ut dignissim euismod, finibus vitae ligula. In ullamcorper, tortor eget tempor dignissim, arcu massa vulputate lectus, non dapibus tellus ipsum non dui."
+                        }
+                ],
+                "projects": [
+                        {
+                                "img_url": "assets/img/3.jpg",
+                                "url": "project.php?id=1",
+                                "name": "Projekat 1",
+                                "category": "still",
+                                "location": "Beograd"
+                        },
+                        {
+                                "img_url": "assets/img/4.jpg",
+                                "url": "project.php?id=2",
+                                "name": "Projekat 2",
+                                "category": "still",
+                                "location": "Zlatibor"
+                        },
+                        {
+                                "img_url": "assets/img/1.jpg",
+                                "url": "project.php?id=3",
+                                "name": "Projekat 3",
+                                "category": "animation",
+                                "location": "Kraljevo"
+                        },
+                        {
+                                "img_url": "assets/img/3.jpg",
+                                "url": "project.php?id=1",
+                                "name": "Projekat 1",
+                                "category": "still",
+                                "location": "Beograd"
+                        },
+                        {
+                                "img_url": "assets/img/4.jpg",
+                                "url": "project.php?id=2",
+                                "name": "Projekat 2",
+                                "category": "still",
+                                "location": "Zlatibor"
+                        },
+                        {
+                                "img_url": "assets/img/1.jpg",
+                                "url": "project.php?id=3",
+                                "name": "Projekat 3",
+                                "category": "animation",
+                                "location": "Kraljevo"
+                        },
+                        {
+                                "img_url": "assets/img/5.jpg",
+                                "url": "project.php?id=1",
+                                "name": "Projekat 1",
+                                "category": "still",
+                                "location": "Beograd"
+                        },
+                        {
+                                "img_url": "assets/img/1.jpg",
+                                "url": "project.php?id=2",
+                                "name": "Projekat 2",
+                                "category": "still",
+                                "location": "Zlatibor"
+                        },
+                        {
+                                "img_url": "assets/img/1.jpg",
+                                "url": "project.php?id=3",
+                                "name": "Projekat 3",
+                                "category": "animation",
+                                "location": "Kraljevo"
+                        },
+                        {
+                                "img_url": "assets/img/2.jpg",
+                                "url": "project.php?id=4",
+                                "name": "Projekat 4",
+                                "category": "vr",
+                                "location": "Kraljevo"
+                        }
+                ],
+                "contact": [
+                        {
+                                "city": "Milano",
+                                "address": "Piazzale Angelo Moratti, 20151 Milano",
+                                "phone": "+3902 123 4567",
+                                "email": "info@lebranko.it"
+                        },
+                        {
+                                "city": "Belgrade",
+                                "address": "Molerova 82, 11000 Belgrade",
+                                "phone": "+38164 4075 556",
+                                "email": "info@lebranko.it"
+                        }
+                ]
+        }
