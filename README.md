@@ -7,11 +7,6 @@
  See it in action [here](http://1102designspace.com/).
  
 www.1102designspace.com
- 
-<p align="center">
-  <img src="https://i.imgur.com/IbFrqNR.jpg"/>
-</p>
-
 
 
 ## Requests    
@@ -22,7 +17,7 @@ www.1102designspace.com
 
 
 <p align="center">
-  <img src="https://i.imgur.com/15iERAU.gif"/>
+  <img src="3g.gif?raw=true" width="700px">
 </p>
 
 
@@ -32,13 +27,18 @@ www.1102designspace.com
 Whole website customization is compressed into one JSON file that contains the texts, image links and content for the whole website making it easy to edit and add new things. It's being pulled though PHP template which disperses the content fitting to the specific page. 
 From that point it is being decompressed and arranged throughout the whole website, which makes it easily editable for non programming user.
 
+
+<p align="center">
+  <img src="4g.gif?raw=true" width="700px">
+</p>
+
 ## Sponsors
 
 Our sponsorship has been provided by the architectural and interior design visualisation studio **11+02 Design Space**.
 
 Check them out on Instagram! ([@1102designspace](https://www.instagram.com/1102designspace/?hl=en))
 <p align="center">
-  <img width="300" src="https://i.imgur.com/o7TtVqE.png"/>
+  <img width="300" src="assets/img/logo.png"/>
 </p>
 
 
