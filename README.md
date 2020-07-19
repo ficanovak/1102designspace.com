@@ -1,6 +1,6 @@
 # 1102 Design Space ![GitHub follow](https://img.shields.io/github/followers/ficanovak?label=Follow&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ficanovak/1102designspace.com) ![GitHub](https://img.shields.io/github/license/ficanovak/1102designspace.com) ![GitHub](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2F1102designspace.com%2F)
  
- ## Studio Website Presentation & 360 Degrees RoundMe   ![GitHub](https://img.shields.io/badge/built%20with-HTML5-green) ![GitHub](https://img.shields.io/badge/-CSS3-blue)  ![GitHub](https://img.shields.io/badge/-JavaScript-yellow) ![GitHub](https://img.shields.io/badge/-PHP-red) ![GitHub](https://img.shields.io/badge/-JSON-grey)
+ ## Studio Website & 360 RoundMe  ![GitHub](https://img.shields.io/badge/built%20with-HTML5-green) ![GitHub](https://img.shields.io/badge/-CSS3-blue)  ![GitHub](https://img.shields.io/badge/-JavaScript-yellow) ![GitHub](https://img.shields.io/badge/-PHP-red) ![GitHub](https://img.shields.io/badge/-JSON-grey)
  
  A website presentation for **architectural and interior design visualisation studio** based in Belgrade & Milan.
  
@@ -17,6 +17,7 @@ www.1102designspace.com
  - Fully responsive website
  - Clean and minimalistic design
  - Bright/White color theme
+ - 360 degrees RoundMe embedded
  - CMS development for indipendent website updates
 
 
